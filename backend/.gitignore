@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+staticfiles/
+media/
+db.sqlite3
+.python-version

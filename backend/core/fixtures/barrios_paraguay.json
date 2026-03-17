@@ -1,0 +1,142 @@
+[
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000001", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Ykuá Satí"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000002", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Ytay"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000003", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "San Miguel"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000004", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Loma Pytá"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000005", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Jara"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000006", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Tacumbú"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000007", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Nazareth"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000008", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Guaraní"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000009", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Las Palmas"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000010", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Mburicaó"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000011", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "San José"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000012", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000010", "nombre": "Tablada Nueva"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000020", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000021", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "Jardín del Este"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000022", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "San Jorge"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000023", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "Universitario"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000024", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "Las Mercedes"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000025", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "Pinozá"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000026", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "San Pablo"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000027", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "Ycuá Bolaños"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000028", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000011", "nombre": "Zeballos Cué"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000030", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000012", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000031", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000012", "nombre": "Ciudad Nueva"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000032", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000012", "nombre": "Loma Pytá"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000033", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000012", "nombre": "San Pedro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000034", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000012", "nombre": "Villa Aurelia"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000035", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000012", "nombre": "Ytororó"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000040", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000013", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000041", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000013", "nombre": "Barrio Obrero"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000042", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000013", "nombre": "San José"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000043", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000013", "nombre": "Ycuá Bolaños"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000044", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000013", "nombre": "Villa del Mar"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000045", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000013", "nombre": "San Miguel"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000050", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000014", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000051", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000014", "nombre": "Bañado Sur"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000052", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000014", "nombre": "Chacarita"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000053", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000014", "nombre": "San Cayetano"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000054", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000014", "nombre": "Villa Alegre"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000055", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000014", "nombre": "Loma Pytá"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000060", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000015", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000061", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000015", "nombre": "San Roque"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000062", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000015", "nombre": "Villa Esperanza"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000063", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000015", "nombre": "San Antonio"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000070", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000016", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000071", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000016", "nombre": "San Isidro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000072", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000016", "nombre": "Villa Alegre"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000073", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000016", "nombre": "San Lorenzo"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000080", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000017", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000081", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000017", "nombre": "San Pedro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000082", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000017", "nombre": "Villa del Lago"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000090", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000018", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000091", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000018", "nombre": "San Miguel"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000092", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000018", "nombre": "Villa Alegre"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000100", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000019", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000101", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000019", "nombre": "San José"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000102", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000019", "nombre": "Villa Esperanza"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000110", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000020", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000111", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000020", "nombre": "Lago Ypacaraí"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000112", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000020", "nombre": "San Juan"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000120", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000021", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000121", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000021", "nombre": "San Isidro"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000130", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000022", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000131", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000022", "nombre": "San Roque"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000132", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000022", "nombre": "Villa Alegre"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000140", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000023", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000141", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000023", "nombre": "San Antonio"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000150", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "Microcentro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000151", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "Área 2"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000152", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "Área 3"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000153", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "Área 4"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000154", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "Km 4"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000155", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "Km 6"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000156", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "Km 8"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000157", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "San Blas"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000158", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000030", "nombre": "Villa Alegre"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000160", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000031", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000161", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000031", "nombre": "San Rafael"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000162", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000031", "nombre": "Villa Alegre"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000170", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000032", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000171", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000032", "nombre": "San Antonio"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000172", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000032", "nombre": "Villa Esperanza"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000180", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000033", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000181", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000033", "nombre": "San Miguel"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000182", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000033", "nombre": "Villa del Este"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000190", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000040", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000191", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000040", "nombre": "San Pedro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000192", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000040", "nombre": "Cambyretá"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000193", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000040", "nombre": "San Isidro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000194", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000040", "nombre": "Villa Alegre"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000195", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000040", "nombre": "Pacú Cuá"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000200", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000050", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000201", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000050", "nombre": "San Roque"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000202", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000050", "nombre": "Villa Alegre"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000203", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000050", "nombre": "Tupãrenda"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000210", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000070", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000211", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000070", "nombre": "San Isidro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000212", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000070", "nombre": "Villa Alegre"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000213", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000070", "nombre": "San Rafael"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000220", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000120", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000221", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000120", "nombre": "San Jorge"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000222", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000120", "nombre": "Villa Alegre"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000223", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000120", "nombre": "Barrio Obrero"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000230", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000140", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000231", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000140", "nombre": "San Blas"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000232", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000140", "nombre": "Villa Alegre"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000233", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000140", "nombre": "San Roque"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000240", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000100", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000241", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000100", "nombre": "San Pablo"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000242", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000100", "nombre": "Villa Alegre"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000250", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000090", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000251", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000090", "nombre": "San Roque"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000252", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000090", "nombre": "Villa Alegre"}},
+
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000260", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000080", "nombre": "Centro"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000261", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000080", "nombre": "San Antonio"}},
+  {"model": "core.barrio", "pk": "3b000000-0000-0000-0000-000000000262", "fields": {"ciudad": "2a000000-0000-0000-0000-000000000080", "nombre": "Villa Alegre"}}
+]
