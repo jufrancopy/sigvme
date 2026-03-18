@@ -108,8 +108,8 @@ export default function ResumenPage({ params }: { params: Promise<{ id: string }
           <Campo label="Antigüedad laboral" valor={paciente.antiguedad_laboral ? `${paciente.antiguedad_laboral} años` : '—'} />
           <Campo label="Ciudad" valor={paciente.ciudad_nombre} />
           <Campo label="Barrio" valor={paciente.barrio_nombre} />
-          <Campo label="Fecha de visita" valor={visita.fecha} />
-          <Campo label="Turno" valor={visita.turno} />
+          <Campo label="Fecha de visita" valor={visita.jornada_fecha} />
+          <Campo label="Turno" valor={visita.jornada_turno} />
         </Seccion>
 
         {/* Enfermería */}
