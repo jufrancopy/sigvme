@@ -113,7 +113,7 @@ export default function AccesoPage({ params }: { params: Promise<{ token: string
               <BarChart data={imcData} barSize={36}>
                 <XAxis dataKey="name" tick={{ fontSize: 11 }} />
                 <YAxis tick={{ fontSize: 11 }} />
-                <Tooltip formatter={(v: number) => [`${v} personas`]} />
+                <Tooltip formatter={(v) => [`${v} personas`]} />
                 <Bar dataKey="value" radius={[4, 4, 0, 0]}>
                   {imcData.map((d, i) => <Cell key={i} fill={d.color} />)}
                 </Bar>
@@ -135,7 +135,7 @@ export default function AccesoPage({ params }: { params: Promise<{ token: string
               <BarChart data={estresData} barSize={36}>
                 <XAxis dataKey="name" tick={{ fontSize: 11 }} />
                 <YAxis tick={{ fontSize: 11 }} />
-                <Tooltip formatter={(v: number) => [`${v} personas`]} />
+                <Tooltip formatter={(v) => [`${v} personas`]} />
                 <Bar dataKey="value" radius={[4, 4, 0, 0]}>
                   {estresData.map((d, i) => <Cell key={i} fill={d.color} />)}
                 </Bar>
